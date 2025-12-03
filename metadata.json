@@ -1,0 +1,5 @@
+{
+  "name": "GeoGlobe 3D Puzzle",
+  "description": "A 3D interactive drag-and-drop geography puzzle. Drag continent and ocean pieces onto the globe to complete the world map.",
+  "requestFramePermissions": []
+}
